@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 orel is the keyi
-try to push sadsa 
+try to push sads the key
+try to push 
 hi
-asdasd
-asdas
+hello
+goodbye
+>>>>>>> msg
